@@ -2,6 +2,8 @@
 
 ![This is an image](https://github.com/naidan89/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Проект доступен по [ссылке](http://51.250.108.158)
+
 REST API для сервиса ***YaMDb**
 База отзывов о фильмах, книгах и музыке. 
 
